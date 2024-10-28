@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/TravelAndTours/static/css/main.87b9cc2f.css",
+    "main.js": "/TravelAndTours/static/js/main.b8e7b37b.js",
+    "static/js/453.2dc6d735.chunk.js": "/TravelAndTours/static/js/453.2dc6d735.chunk.js",
+    "static/media/NavImg1.jpg": "/TravelAndTours/static/media/NavImg1.9fd776f512f0659199bc.jpg",
+    "static/media/news1.jpg": "/TravelAndTours/static/media/news1.f9ca3b91bfd3e84c9fc4.jpg",
+    "static/media/about.jpg": "/TravelAndTours/static/media/about.918542ac5462e422484e.jpg",
+    "static/media/hotels.jpg": "/TravelAndTours/static/media/hotels.93a9afb657e351701976.jpg",
+    "static/media/slider3.jpg": "/TravelAndTours/static/media/slider3.7ba2a67147a500b4761e.jpg",
+    "static/media/news4.jpg": "/TravelAndTours/static/media/news4.2e28cd51a08c58f6960a.jpg",
+    "static/media/news2.jpg": "/TravelAndTours/static/media/news2.f7a86cffe29d0e05f9a5.jpg",
+    "static/media/news3.jpg": "/TravelAndTours/static/media/news3.20f49b29cc148cd650c7.jpg",
+    "static/media/slider2.jpg": "/TravelAndTours/static/media/slider2.1950541294c80b834173.jpg",
+    "static/media/contact.jpg": "/TravelAndTours/static/media/contact.083366b93443693a2b78.jpg",
+    "static/media/main.jpg": "/TravelAndTours/static/media/main.a2fef0e0deb0550969a1.jpg",
+    "static/media/slider1.jpg": "/TravelAndTours/static/media/slider1.3e51c14c33aaf8f09a9c.jpg",
+    "static/media/aboutUs.jpg": "/TravelAndTours/static/media/aboutUs.8a386899e8c2b613af37.jpg",
+    "static/media/WelcomeImg.jpg": "/TravelAndTours/static/media/WelcomeImg.d2ff3df40acdac650d4c.jpg",
+    "static/media/customer2.jpg": "/TravelAndTours/static/media/customer2.d8b7c95c9f88f1adebd6.jpg",
+    "static/media/blog2.jpg": "/TravelAndTours/static/media/blog2.3cfb78e8ac5f11d47d49.jpg",
+    "static/media/customer3.jpg": "/TravelAndTours/static/media/customer3.14e29dadb10342f8e1a1.jpg",
+    "static/media/customer1.jpg": "/TravelAndTours/static/media/customer1.b52259fd075b26b0148e.jpg",
+    "static/media/blog1.jpg": "/TravelAndTours/static/media/blog1.13a30f57c4cdf282e44a.jpg",
+    "static/media/team1.jpg": "/TravelAndTours/static/media/team1.98dc4a2112cd9a06699e.jpg",
+    "static/media/blog3.jpg": "/TravelAndTours/static/media/blog3.102830f5cf5312dad36f.jpg",
+    "index.html": "/TravelAndTours/index.html",
+    "main.87b9cc2f.css.map": "/TravelAndTours/static/css/main.87b9cc2f.css.map",
+    "main.b8e7b37b.js.map": "/TravelAndTours/static/js/main.b8e7b37b.js.map",
+    "453.2dc6d735.chunk.js.map": "/TravelAndTours/static/js/453.2dc6d735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b9cc2f.css",
+    "static/js/main.b8e7b37b.js"
+  ]
+}
